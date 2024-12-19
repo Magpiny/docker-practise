@@ -1,0 +1,26 @@
+{
+  "name": "project1_express",
+  "version": "1.0.0",
+  "description": "Backendjs practice with Expressjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "devStart": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Expressjs"
+  ],
+  "author": "Magpiny BO",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.11",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
