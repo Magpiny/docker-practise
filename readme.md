@@ -5,6 +5,8 @@
 ### DEPLOYING ON RENDER
 
 
-#### [Site link](https://magpinyb-latest.onrender.com/)
+#### [Site link1](https://magpinyb-latest.onrender.com/)
+
+#### [Site Link2](https://docker-practise.fly.dev/)
 
 
